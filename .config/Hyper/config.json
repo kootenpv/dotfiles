@@ -1,0 +1,14 @@
+{
+	"windowPosition": [
+		970,
+		30
+	],
+	"windowSize": [
+		920,
+		1005
+	],
+	"hyper": {
+		"plugins": "{\"plugins\":[\"hyper-snazzy\"],\"localPlugins\":[]}",
+		"plugin-versions": "[[\"hyper-snazzy\",\"1.1.0\"]]"
+	}
+}
